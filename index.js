@@ -5,6 +5,7 @@ module.exports = class Calculator{
 	}
 
 	// implementar as outras funções aqui
+
 	subtract(a,b){
 		return (a-b);
 	}
